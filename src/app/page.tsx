@@ -207,6 +207,8 @@ export default function LandingPage() {
           id: "q2",          title: "Are swim caps mandatory?",          content: "Yes, for hygiene and filtration maintenance, swim caps must be worn by all swimmers."},
         {
           id: "q3",          title: "Can I bring guests?",          content: "Members can purchase guest passes for family and friends at our reception."},
+        {
+          id: "q4",          title: "What should I bring on my first visit?",          content: "Please bring your swimwear, a towel, a swim cap, and a padlock for your locker. We provide water stations throughout the facility."},
       ]}
       imageSrc="http://img.b2bpic.net/free-photo/pool-water-texture-background_1203-2624.jpg"
       title="Need Help?"
